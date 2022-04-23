@@ -3,7 +3,6 @@ import Jokes from "./views/Jokes";
 const Index = () => {
 
   return (
-
      <Jokes /> 
   )
 }
