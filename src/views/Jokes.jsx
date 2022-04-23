@@ -1,4 +1,4 @@
-import { Box, Text, Button, Container, Img, Flex, background } from "@chakra-ui/react";
+import { Box, Text, Button, Flex} from "@chakra-ui/react";
 import { useEffect, useState } from "react";
 import axios from "axios";
 
